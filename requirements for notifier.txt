@@ -1,0 +1,9 @@
+External Modules
+-plyer  
+-gtts
+-playsound--1.2.2
+
+To Install Run Powershell(Admin)
+-pip install <external modules>
+
+Note- during playsound installation dont forgot to install their perticular version
